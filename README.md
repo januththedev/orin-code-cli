@@ -3,7 +3,7 @@
 Zero dependencies. Plain Node 18+. Never holds AI keys.
 
 ```bash
-npm i -g orin-code-cli
+npm i -g github:januththedev/orin-code-cli
 # or: node orin.mjs <cmd>
 
 orin login                  # pair this machine (browser approves once)
